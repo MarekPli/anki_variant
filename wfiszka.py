@@ -6,7 +6,7 @@ import random
 import re
 dict_has = {}
 was_has = []
-SIZE = 3
+SIZE = 20
 MAX_BOX = 5
 MAX_BOX_SEQUENCE = 1
 list_index = -1

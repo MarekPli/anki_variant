@@ -1,0 +1,389 @@
+<h>A</h>
+<f>A</f> <w>[e2]</w> <j>n</j> <k>szk.</k> <k>uniw.</k> ocena bardzo dobra
+
+<h>a</h>
+<f>a</f> <w>[@, e2]</w> przedimek &#060;rodzajnik&#062; nieokreœlony (<j>przed spó³g³osk¹</j>)
+
+<h>aback</h>
+<f>a<z>ž</z><f>back</f> <w>[@'b4k]</w> <j>adv</j>: <f>to be taken aback</f> byæ zaskoczonym
+
+<h>abacus</h>
+<f>ab<z>ž</z><f>a<z>ž</z><f>cus</f> <w>['4b@k@s]</w> <j>n</j> (<j>pl</j> <f>abaci</f> <w>['4b@s52]</w>, <f>abacuses</f>) liczyd³o
+
+<h>abandon</h>
+<f>a<z>ž</z><f>ban<z>ž</z><f>don</f> <w>[@'b4nd@n]</w> <j>vt</j> opuszczaæ; zaniechaæ; rezygnowaæ 
+<c>||</c> <j>vr</j>: <f>to abandon oneself to sth</f> oddawaæ siê, poddawaæ siê (<j>jakiemuœ uczuciu</j>) 
+<c>||</c> <j>n</j> zapamiêtanie, ¿ywio³owoœæ
+
+<h>abandonment</h>
+<f>a<z>ž</z><f>ban<z>ž</z><f>don<z>ž</z><f>ment</f> <w>[@'b4nd@nm@nt]</w> <j>n</j> opuszczenie, porzucenie; zaniedbanie; rezygnacja
+
+<h>abashed</h>
+<f>a<z>ž</z><f>bash<z>ž</z><f>ed</f> <w>[@'b4^t]</w> <j>adj</j> zmieszany
+
+<h>abate</h>
+<f>a<z>ž</z><f>bate</f> <w>[@'be2t]</w> <j>vi</j> opadaæ; s³abn¹æ; zmniejszaæ siê
+
+<h>abbey</h>
+<f>ab<z>ž</z><f>bey</f> <w>['4b2]</w> <j>n</j> opactwo
+
+<h>abbot</h>
+<f>ab<z>ž</z><f>bot</f> <w>['4b@t]</w> <j>n</j> opat
+
+<h>abbreviate</h>
+<f>ab<z>ž</z><f>bre<z>ž</z><f>vi<z>ž</z><f>ate</f> <w>[@'briv2e2t]</w> <j>vt</j> skracaæ (<j>s³owo</j>, <j>tytu³</j>)
+
+<h>abbreviation</h>
+<f>ab<z>ž</z><f>bre<z>ž</z><f>via<z>ž</z><f>tion</f> <w>[@~briv2'e2^@n]</w> <j>n</j> skrót, skrócenie
+
+<h>ABC</h>
+<f>ABC</f> <w>['e2 bi 'si]</w> <j>n</j> alfabet;
+      podstawy (<j>wiedzy</j>, <j>nauki</j>)
+
+<h>abdicate</h>
+<f>ab<z>ž</z><f>di<z>ž</z><f>cate</f> <w>['4bd2ke2t]</w> <j>vt</j> rezygnowaæ (<f>the office</f> z urzêdu);
+      abdykowaæ, zrzec siê (<f>the throne</f> tronu)
+
+<h>abdication</h>
+<f>ab<z>ž</z><f>di<z>ž</z><f>ca<z>ž</z><f>tion</f> <w>[~4bd2'ke2^@n]</w> <j>n</j> abdykacja, zrzeczenie siê (<f>of the throne &#060;office&#062;</f> tronu &#060;urzêdu&#062;)
+
+<h>abdomen</h>
+<f>ab<z>ž</z><f>do<z>ž</z><f>men</f> <w>['4bd@m@n]</w> <j>n</j> brzuch; odw³ok (<j>owada</j>)
+
+<h>abduct</h>
+<f>ab<z>ž</z><f>duct</f> <w>[4b'd0kt]</w> <j>vt form.</j> uprowadzaæ, porywaæ
+
+<h>abduction</h>
+<f>ab<z>ž</z><f>duc<z>ž</z><f>tion</f> <w>[4b'd0k^@n]</w> <j>n form.</j> uprowadzenie, porwanie
+
+<h>aberration</h>
+<f>ab<z>ž</z><f>er<z>ž</z><f>ra<z>ž</z><f>tion</f> <w>[~4b@'re2^@n]</w> <j>n</j> odchylenie, zboczenie (<j>z w³aœciwej drogi</j>);
+      aberracja
+
+<h>abet</h>
+<f>a<z>ž</z><f>bet</f> <w>[@'bet]</w> <j>vt</j> podjudzaæ, pod¿egaæ, wspó³dzia³aæ (<j>w przestêpstwie</j>)
+
+<h>abeyance</h>
+<f>a<z>ž</z><f>bey<z>ž</z><f>ance</f> <w>[@'be2@ns]</w> <j>n</j> stan zawieszenia, niepewnoœci
+
+<h>abhor</h>
+<f>ab<z>ž</z><f>hor</f> <w>[@b'h7*]</w> <j>vt</j> czuæ wstrêt, ¿ywiæ nienawiœæ (<f>sb</f>, <f>sth</f> do kogoœ, do czegoœ)
+
+<h>abide</h>
+<f>a<z>ž</z><f>bide</f> <w>[@'b52d]</w> <j>vt</j> wytrzymywaæ, znosiæ;
+ <f>to abide by sth</f> przestrzegaæ czegoœ, trzymaæ siê czegoœ
+
+<h>abiding</h>
+<f>a<z>ž</z><f>bid<z>ž</z><f>ing</f> <w>[@'b52d2%]</w> <j>adj</j> trwa³y, sta³y;
+      przestrzegaj¹cy
+
+<h>ability</h>
+<f>a<z>ž</z><f>bil<z>ž</z><f>i<z>ž</z><f>ty</f> <w>[@'b2l@t2]</w> <j>n</j> zdolnoœæ;
+      <j>pl</j> <f>abilities</f> talent, uzdolnienia;
+ <f>to the best of my ability &#060;abilities&#062;</f> najlepiej jak potrafiê, w granicach moich mo¿liwoœci
+
+<h>abject</h>
+<f>ab<z>ž</z><f>ject</f> <w>['4bd&ekt]</w> <j>adj</j> pod³y, nikczemny;
+      ¿a³osny;
+      nêdzny
+
+<h>abjure</h>
+<f>ab<z>ž</z><f>jure</f> <w>[@b'd&8@*</w>, <j>am.</j> <w>@b'd&8r]</w> <j>vt form.</j> wyrzekaæ siê
+
+<h>ablaze</h>
+<f>a<z>ž</z><f>blaze</f> <w>[@'ble2z]</w> <j>adv adj pred</j> w p³omieniach;
+      p³on¹cy
+
+<h>able</h>
+<f>a<z>ž</z><f>ble</f> <w>['e2bl]</w> <j>adj</j> zdolny, zrêczny, nadaj¹cy siê;
+ <f>to be able</f> móc, byæ w stanie, potrafiæ
+
+<h>able-bodied</h>
+<f>a<z>ž</z><f>ble-bod<z>ž</z><f>ied</f> <w>[~e2bl'bod2d]</w> <j>adj</j> silny (<j>fizycznie</j>), zdrowy
+
+<h>abnegation</h>
+<f>ab<z>ž</z><f>ne<z>ž</z><f>ga<z>ž</z><f>tion</f> <w>[~4bn2'ge2^@n]</w> <j>n</j> abnegacja, zaniedbanie
+
+<h>abnormal</h>
+<f>ab<z>ž</z><f>nor<z>ž</z><f>mal</f> <w>[@b'n7*ml]</w> <j>adj</j> anormalny, nieprawid³owy
+
+<h>aboard</h>
+<f>a<z>ž</z><f>board</f> <w>[@'b7*d]</w> <j>adv prep</j> na pok³adzie (<j>statku</j>, <j>samolotu</j>), na pok³ad
+
+<h>abode</h>
+<f>a<z>ž</z><f>bode</f> <w>[@'b@8d]</w> <j>n form.</j> miejsce pobytu, siedziba;
+ <f>to take up one's abode</f> zamieszkaæ
+
+<h>abolish</h>
+<f>a<z>ž</z><f>bol<z>ž</z><f>ish</f> <w>[@'bol2^]</w> <j>vt</j> znosiæ, usuwaæ, obalaæ
+
+<h>abolition</h>
+<f>ab<z>ž</z><f>o<z>ž</z><f>li<z>ž</z><f>tion</f> <w>[~4b@'l2^@n]</w> <j>n</j> zniesienie, usuniêcie, obalenie
+
+<h>abominable</h>
+<f>a<z>ž</z><f>bom<z>ž</z><f>i<z>ž</z><f>na<z>ž</z><f>ble</f> <w>[@'bom2n@bl]</w> <j>adj</j> wstrêtny, obrzydliwy (<j>tak¿e o pogodzie</j>);
+ <f>abominable snowman</f> yeti (<j>cz³owiek œniegu</j>)
+
+<h>abominate</h>
+<f>a<z>ž</z><f>bom<z>ž</z><f>i<z>ž</z><f>nate</f> <w>[@'bom2ne2t]</w> <j>vt</j> czuæ wstrêt (<f>sth</f> do czegoœ), brzydziæ siê (<f>sth</f> czymœ);
+      nie cierpieæ
+
+<h>abomination</h>
+<f>a<z>ž</z><f>bom<z>ž</z><f>i<z>ž</z><f>na<z>ž</z><f>tion</f> <w>[@~bom2'ne2^@n]</w> <j>n</j> wstrêt, obrzydzenie, odraza;
+      przedmiot wstrêtu
+
+<h>aboriginal</h>
+<f>ab<z>ž</z><f>o<z>ž</z><f>rig<z>ž</z><f>i<z>ž</z><f>nal</f> <w>[~4b@'r2d&nl]</w> <j>adj</j> tubylczy 
+<c>||</c> <j>n</j> tubylec, autochton;
+ <f>Aboriginal</f> Aborygen (<j>w Australii</j>)
+
+<h>aborigine</h>
+<f>ab<z>ž</z><f>o<z>ž</z><f>rig<z>ž</z><f>i<z>ž</z><f>ne</f> <w>[~4b@'r2d&2ni]</w> <j>n</j> tubylec, krajowiec
+
+<h>abort</h>
+<f>a<z>ž</z><f>bort</f> <w>[@'b7*t]</w> <j>vt</j> usuwaæ ci¹¿ê;
+      <k>komp.</k> przerywaæ (<j>program</j>)
+
+<h>abortion</h>
+<f>a<z>ž</z><f>bor<z>ž</z><f>tion</f> <w>[@'b7*^@n]</w> <j>n</j> poronienie, aborcja, przerywanie ci¹¿y;
+      <j>fig.</j> nieudane dzie³o
+
+<h>abortive</h>
+<f>a<z>ž</z><f>bor<z>ž</z><f>tive</f> <w>[@'b7*t2v]</w> <j>adj</j> poroniony;
+      nieudany
+
+<h>abound</h>
+<f>a<z>ž</z><f>bound</f> <w>[@'b58nd]</w> <j>vi</j> obfitowaæ (<f>in &#060;with&#062; sth</f> w coœ);
+ <f>he abounds in enthusiasm</f> jest pe³en entuzjazmu
+
+<h>about</h>
+<f>a<z>ž</z><f>bout</f> <w>[@'b58t]</w> <j>adv</j> dooko³a, wokó³, tu i tam;
+      mniej wiêcej, oko³o;
+ <f>to be about to do sth</f> mieæ w³aœnie (zamiar) coœ zrobiæ, zabieraæ siê do zrobienia czegoœ 
+<c>||</c> <j>prep</j> przy, dooko³a;
+      odnoœnie do, w sprawie;
+ <f>I have no money about me</f> nie mam przy sobie pieniêdzy;
+ <f>what about leaving?</f> a mo¿e byœmy wyszli?
+
+<h>above</h>
+<f>a<z>ž</z><f>bove</f> <w>[@'b0v]</w> <j>adv</j> w górze, powy¿ej 
+<c>||</c> <j>prep</j> nad, ponad 
+<c>||</c> <j>adj attr</j> powy¿szy;
+ <f>above mentioned</f> wy¿ej wymieniony
+
+<h>abrasion</h>
+<f>a<z>ž</z><f>bra<z>ž</z><f>sion</f> <w>[@'bre2&@n]</w> <j>n</j> otarcie (<j>skóry</j>), starcie
+
+<h>abreast</h>
+<f>a<z>ž</z><f>breast</f> <w>[@'brest]</w> <j>adv</j> w jednym rzêdzie, obok, ramiê przy ramieniu;
+ <f>to keep abreast of</f> dotrzymywaæ kroku, byæ na bie¿¹co
+
+<h>abridge</h>
+<f>a<z>ž</z><f>bridge</f> <w>[@'br2d&]</w> <j>vt</j> skracaæ (<j>ksi¹¿kê</j>, <j>tekst</j>)
+
+<h>abroad</h>
+<f>a<z>ž</z><f>broad</f> <w>[@'br7d]</w> <j>adv</j> za granic¹, za granicê;
+      szeroko i daleko;
+ <f>there is a rumour abroad that...</f> rozchodzi siê pog³oska, s³yszy siê, ¿e...
+
+<h>abrupt</h>
+<f>ab<z>ž</z><f>rupt</f> <w>[@'br0pt]</w> <j>adj</j> oderwany;
+      nag³y, niespodziewany;
+      (<j>wzniesienie</j>) strome;
+      (<j>ton</j>) szorstki, opryskliwy
+
+<h>abscess</h>
+<f>ab<z>ž</z><f>scess</f> <w>['4bses]</w> <j>n</j> wrzód, ropieñ
+
+<h>absence</h>
+<f>ab<z>ž</z><f>sence</f> <w>['4bsns]</w> <j>n</j> nieobecnoœæ, brak;
+ <f>absence of mind</f> roztargnienie
+
+<h>absent</h>
+<f>ab<z>ž</z><f>sent</f> <w>['4bsnt]</w> <j>adj</j> nieobecny, brakuj¹cy 
+<c>||</c> <j>vr</j> <w>[@b'sent]</w> <f>to absent oneself</f> byæ nieobecnym;
+ <f>to absent oneself from school</f> byæ nieobecnym w szkole
+
+<h>absentee</h>
+<f>ab<z>ž</z><f>sent<z>ž</z><f>ee</f> <w>[~4bsn'ti]</w> <j>n</j> osoba nieobecna
+
+<h>absenteeism</h>
+<f>ab<z>ž</z><f>sent<z>ž</z><f>ee<z>ž</z><f>i<z>ž</z><f>sm</f> <w>[~4bs@n'ti2z@m]</w> <j>n</j> absencja (<j>nieuzasadniona</j>)
+
+<h>absent-minded</h>
+<f>ab<z>ž</z><f>sent-mind<z>ž</z><f>ed</f> <w>[~4bsnt'm52nd2d]</w> <j>adj</j> roztargniony
+
+<h>absolute</h>
+<f>ab<z>ž</z><f>so<z>ž</z><f>lute</f> <w>['4bs@lut]</w> <j>adj</j> absolutny, ca³kowity, bezwzglêdny;
+      stanowczy;
+      <k>mat.</k> <f>absolute value</f> wartoœæ bezwzglêdna 
+<c>||</c> <j>n</j> absolut
+
+<h>absolutely</h>
+<f>ab<z>ž</z><f>so<z>ž</z><f>lute<z>ž</z><f>ly</f> <w>['4bs@lutl2, ~4bs@'lutl2]</w> <j>adv</j> absolutnie, bezwarunkowo, bezwzglêdnie;
+      stanowczo 
+<c>||</c> <j>int</j> na pewno!, oczywiœcie!
+
+<h>absolution</h>
+<f>ab<z>ž</z><f>so<z>ž</z><f>lu<z>ž</z><f>tion</f> <w>[~4bs@'lu^@n]</w> <j>n</j> <k>rel.</k> rozgrzeszenie
+
+<h>absolutism</h>
+<f>ab<z>ž</z><f>so<z>ž</z><f>lut<z>ž</z><f>ism</f> <w>['4bs@lut2z@m]</w> <j>n</j> absolutyzm
+
+<h>absolve</h>
+<f>ab<z>ž</z><f>solve</f> <w>[@b'z7lv]</w> <j>vt</j> zwalniaæ (<f>sb from sth</f> kogoœ od czegoœ), darowywaæ (<f>sb from sth</f> komuœ coœ);
+      rozgrzeszaæ
+
+<h>absorb</h>
+<f>ab<z>ž</z><f>sorb</f> <w>[@b's7*b, @b'z7*b]</w> <j>vt</j> absorbowaæ, wsysaæ, poch³aniaæ;
+ <f>he is absorbed in tennis</f> poch³ania go tenis
+
+<h>absorption</h>
+<f>ab<z>ž</z><f>sorp<z>ž</z><f>tion</f> <w>[@b's7*p^@n]</w> <j>n</j> wch³oniêcie;
+      zaabsorbowanie (<f>in sth</f> czymœ)
+
+<h>abstain</h>
+<f>ab<z>ž</z><f>stain</f> <w>[@b'ste2n]</w> <j>vi</j> powstrzymywaæ siê (<f>from sth</f> od czegoœ);
+ <f>to abstain from voting</f> wstrzymywaæ siê od g³osowania
+
+<h>abstainer</h>
+<f>ab<z>ž</z><f>stain<z>ž</z><f>er</f> <w>[@b'ste2n@*]</w> <j>n</j> abstynent
+
+<h>abstention</h>
+<f>ab<z>ž</z><f>sten<z>ž</z><f>tion</f> <w>[@b'sten^@n]</w> <j>n</j> wstrzymanie siê od g³osu
+
+<h>abstinence</h>
+<f>ab<z>ž</z><f>sti<z>ž</z><f>nence</f> <w>['4bst2n@ns]</w> <j>n</j> wstrzemiêŸliwoœæ, trzeŸwoœæ
+
+<h>abstract</h>
+<f>ab<z>ž</z><f>stract</f> <w>['4bstr4kt]</w> <j>adj</j> abstrakcyjny, oderwany 
+<c>||</c> <j>n</j> wyci¹g, abstrakt;
+ <f>abstract of account</f> wyci¹g z rachunku &#060;z konta&#062; 
+<c>||</c> <j>vt</j> <w>[@b'str4kt]</w> odrywaæ, odci¹gaæ, odejmowaæ
+
+<h>abstraction</h>
+<f>ab<z>ž</z><f>strac<z>ž</z><f>tion</f> <w>[@b'str4k^@n]</w> <j>n</j> abstrakcja;
+      abstrahowanie, oddzielenie;
+      roztargnienie
+
+<h>absurd</h>
+<f>ab<z>ž</z><f>surd</f> <w>[@b's!*d]</w> <j>adj</j> niedorzeczny;
+      absurdalny
+
+<h>absurdity</h>
+<f>ab<z>ž</z><f>sur<z>ž</z><f>di<z>ž</z><f>ty</f> <w>[@b's!*d@t2]</w> <j>n</j> niedorzecznoœæ;
+      absurdalnoœæ
+
+<h>abundance</h>
+<f>a<z>ž</z><f>bun<z>ž</z><f>dance</f> <w>[@'b0nd@ns]</w> <j>n</j> obfitoœæ, dostatek;
+ <f>in abundance</f> pod dostatkiem, w bród
+
+<h>abundant</h>
+<f>a<z>ž</z><f>bun<z>ž</z><f>dant</f> <w>[@'b0nd@nt]</w> <j>adj</j> obfity
+
+<h>abuse</h>
+<f>a<z>ž</z><f>buse</f> <w>[@'bjus]</w> <j>n</j> nadu¿ycie, nadu¿ywanie;
+      obraza, znies³awienie;
+      maltretowanie 
+<c>||</c> <j>vt</j> <w>[@'bjuz]</w> nadu¿ywaæ;
+      obra¿aæ, znies³awiaæ;
+      maltretowaæ
+
+<h>abusive</h>
+<f>a<z>ž</z><f>bu<z>ž</z><f>sive</f> <w>[@'bjus2v]</w> <j>adj</j> obraŸliwy, obel¿ywy
+
+<h>abysmal</h>
+<f>a<z>ž</z><f>bys<z>ž</z><f>mal</f> <w>[@'b2zml]</w> <j>adj</j> bezdenny, przepastny;
+      okropny, fatalny
+
+<h>abyss</h>
+<f>a<z>ž</z><f>byss</f> <w>[@'b2s]</w> <j>n</j> przepaœæ, otch³añ
+
+<h>acacia</h>
+<f>a<z>ž</z><f>ca<z>ž</z><f>cia</f> <w>[@'ke2^@]</w> <j>n</j> akacja
+
+<h>academic</h>
+<f>ac<z>ž</z><f>a<z>ž</z><f>dem<z>ž</z><f>ic</f> <w>[~4k@'dem2k]</w> <j>adj</j> akademicki;
+      teoretyczny 
+<c>||</c> <j>n</j> uczony, naukowiec
+
+<h>academician</h>
+<f>a<z>ž</z><f>ca<z>ž</z><f>de<z>ž</z><f>mi<z>ž</z><f>cian</f> <w>[@~k4d@'m2^@n]</w> <j>n</j> cz³onek akademii
+
+<h>academy</h>
+<f>a<z>ž</z><f>cad<z>ž</z><f>e<z>ž</z><f>my</f> <w>[@'k4d@m2]</w> <j>n</j> akademia, uczelnia
+
+<h>accede</h>
+<f>ac<z>ž</z><f>cede</f> <w>[@k'sid]</w> <j>vi form.</j> zgadzaæ siê, przystawaæ (<f>to sth</f> na coœ);
+      wstêpowaæ (<f>to the throne</f> na tron);
+      obejmowaæ (<f>to a post</f> stanowisko)
+
+<h>accelerate</h>
+<f>ac<z>ž</z><f>cel<z>ž</z><f>er<z>ž</z><f>ate</f> <w>[@k'sel@re2t]</w> <j>vt vi</j> przyspieszaæ
+
+<h>acceleration</h>
+<f>ac<z>ž</z><f>cel<z>ž</z><f>er<z>ž</z><f>a<z>ž</z><f>tion</f> <w>[@k~sel@'re2^@n]</w> <j>n</j> przyspieszenie
+
+<h>accelerator</h>
+<f>ac<z>ž</z><f>cel<z>ž</z><f>er<z>ž</z><f>a<z>ž</z><f>tor</f> <w>[@k'sel@re2t@*]</w> <j>n</j> <k>fiz.</k> akcelerator;
+      <k>mot.</k> peda³ gazu
+
+<h>accent</h>
+<f>ac<z>ž</z><f>cent</f> <w>['4ksnt]</w> <j>n</j> akcent, nacisk;
+      sposób wymawiania 
+<c>||</c> <j>vt</j> <w>[4k'sent]</w> akcentowaæ, k³aœæ nacisk;
+      podkreœlaæ
+
+<h>accentuate</h>
+<f>ac<z>ž</z><f>cen<z>ž</z><f>tu<z>ž</z><f>ate</f> <w>[@k'sent^8e2t]</w> <j>vt</j> akcentowaæ, podkreœlaæ, uwypuklaæ
+
+<h>accept</h>
+<f>ac<z>ž</z><f>cept</f> <w>[@k'sept]</w> <j>vt vi</j> przyjmowaæ, aprobowaæ, zgadzaæ siê;
+      akceptowaæ (<j>weksel</j>, <j>czek</j>) 
+<c>||</c> <j>n</j>: <k>biz.</k> <f>absolute accept</f> akcept bez zastrze¿eñ;
+      <k>biz.</k> <f>conditional accept</f> akcept warunkowy;
+ <f>to present for accept</f> przedstawiæ do akceptacji
+
+<h>acceptable</h>
+<f>ac<z>ž</z><f>cept<z>ž</z><f>a<z>ž</z><f>ble</f> <w>[@k'sept@bl]</w> <j>adj</j> do przyjêcia;
+      znoœny, zadowalaj¹cy;
+      po¿¹dany
+
+<h>acceptance</h>
+<f>ac<z>ž</z><f>cept<z>ž</z><f>ance</f> <w>[@k'sept@ns]</w> <j>n</j> akceptacja, (<j>chêtne</j>) przyjêcie;
+      zgoda (<f>of sth</f> na coœ);
+      uznanie;
+      <k>biz.</k> akcept
+
+<h>access</h>
+<f>ac<z>ž</z><f>cess</f> <w>['4kses]</w> <j>n</j> dostêp, dojœcie, dojazd;
+ <f>easy of access</f> ³atwo dostêpny;
+ <f>access to power</f> dojœcie do w³adzy 
+<c>||</c> <j>adj attr</j> dojazdowy;
+ <f>good access roads</f> dobre drogi dojazdowe;
+      <k>komp.</k> <f>access time</f> czas dostêpu (<j>do dysku</j>)
+
+<h>accessible</h>
+<f>ac<z>ž</z><f>ces<z>ž</z><f>si<z>ž</z><f>ble</f> <w>[@k'ses@bl]</w> <j>adj</j> dostêpny;
+      przystêpny (<j>o literaturze</j>)
+
+<h>zoological</h>
+<f>zo<z>ž</z><f>o<z>ž</z><f>log<z>ž</z><f>i<z>ž</z><f>cal</f> <w>[~z@8@'lod&2kl]</w> <j>adj</j> zoologiczny;
+ <f>zoological gardens</f> ogród zoologiczny
+
+<h>zoology</h>
+<f>zo<z>ž</z><f>ol<z>ž</z><f>o<z>ž</z><f>gy</f> <w>[z@8'ol@d&2]</w> <j>n</j> zoologia
+
+<h>zoom</h>
+<f>zoom</f> <w>[zum]</w> <j>vi</j> œmign¹æ;
+      popêdziæ przemkn¹æ obok (<j>z ha³asem</j>);
+      <j>pot.</j> wzrastaæ;
+      <k>film</k> <f>to zoom in (on sth)</f> naje¿d¿aæ (<j>kamer¹</j>) na coœ 
+<c>||</c> <j>n</j> warkot
+
+<h>zoom (lens)</h>
+<f>zoom (lens)</f> <w>['zum lenz]</w> <j>n</j> teleobiektyw
+
+<h>zucchini</h>
+<f>zuc<z>ž</z><f>chi<z>ž</z><f>ni</f> <w>[z8'k1n2]</w> <j>n</j> <k>bot.</k> cukinia
+
